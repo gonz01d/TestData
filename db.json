@@ -1,0 +1,126 @@
+{
+    "list": [{
+        "title": "No Time to Die",
+        "subText": "Billie Eilish",
+        "category": "Top 10 hits",
+        "id": 1001,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Never Seen the Sunshine",
+        "subText": "Tones and I",
+        "category": "Top 10 hits",
+        "id": 1002,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "What I've Been Waiting For",
+        "subText": "Olivia Rodrigo",
+        "category": "Top 10 hits",
+        "id": 1003,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Turtle Rock",
+        "subText": "Turtle Rock",
+        "category": "Top 10 hits",
+        "id": 1004,
+        "imageName": "mediaplaceholder"
+    },
+    
+    
+    
+    
+    {
+        "title": "Ballads",
+        "subText": "240,000 FOLLOWERS",
+        "category": "Genres",
+        "id": 1005,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Bangers",
+        "subText": "160,000 FOLLOWERS",
+        "category": "Genres",
+        "id": 1006,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Disco",
+        "subText": "160,000 FOLLOWERS",
+        "category": "Genres",
+        "id": 1007,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "90's Party",
+        "subText": "160,000 FOLLOWERS",
+        "category": "Genres",
+        "id": 1008,
+        "imageName": "mediaplaceholder"
+    },
+    
+    
+    
+    
+    {
+        "title": "What I've Been Waiting For",
+        "subText": "Olivia Rodrigo",
+        "category": "Jump back in",
+        "id": 1009,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Never Seen the Sunshine",
+        "subText": "Tones and I",
+        "category": "Jump back in",
+        "id": 1010,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Jupiter Sings",
+        "subText": "Carlos Nino & Friends",
+        "category": "Jump back in",
+        "id": 1011,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Welcome to Wonderland",
+        "subText": "Anson Seabra",
+        "category": "Jump back in",
+        "id": 1012,
+        "imageName": "mediaplaceholder"
+    },
+    
+    
+    
+    
+    {
+        "title": "What I've Been Waiting For",
+        "subText": "Olivia Rodrigo",
+        "category": "Made for you",
+        "id": 1013,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Never Seen the Sunshine",
+        "subText": "Tones and I",
+        "category": "Made for you",
+        "id": 1014,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Jupiter Sings",
+        "subText": "Carlos Nino & Friends",
+        "category": "Made for you",
+        "id": 1015,
+        "imageName": "mediaplaceholder"
+    },
+    {
+        "title": "Welcome to Wonderland",
+        "subText": "Anson Seabra",
+        "category": "Made for you",
+        "id": 1016,
+        "imageName": "mediaplaceholder"
+    }
+]}
