@@ -4,28 +4,32 @@
         "subText": "Billie Eilish",
         "category": "Top 10 hits",
         "id": 1001,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Never Seen the Sunshine",
         "subText": "Tones and I",
         "category": "Top 10 hits",
         "id": 1002,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "What I've Been Waiting For",
         "subText": "Olivia Rodrigo",
         "category": "Top 10 hits",
         "id": 1003,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Turtle Rock",
         "subText": "Turtle Rock",
         "category": "Top 10 hits",
         "id": 1004,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     
     
@@ -36,60 +40,68 @@
         "subText": "240,000 FOLLOWERS",
         "category": "Genres",
         "id": 1005,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Bangers",
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1006,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Disco",
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1007,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "90's Party",
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1008,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     
     
     
     
     {
-        "title": "What I've Been Waiting For",
-        "subText": "Olivia Rodrigo",
+        "title": "Homesick (Karaoke Version)",
+        "subText": "Dua Lipa",
         "category": "Jump back in",
         "id": 1009,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": "https://storageaccountcosmoa3a3.blob.core.windows.net/testmedia/VLC_Encoded_1280x720_Dua%20Lipa%20-%20Homesick%20(Karaoke%20Version).mp4?st=2020-04-09T15%3A40%3A55Z&se=2020-12-01T15%3A40%3A00Z&sp=rl&sv=2018-03-28&sr=b&sig=H%2FeBUXPSbXLXkG8G8asBs1nzWLWVAuZVIpKCvNcyJl8%3D"
     },
     {
         "title": "Never Seen the Sunshine",
         "subText": "Remote Tunes",
         "category": "Jump back in",
         "id": 1010,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Jupiter Sings",
         "subText": "Carlos Nino & Friends",
         "category": "Jump back in",
         "id": 1011,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Welcome to Wonderland",
         "subText": "Anson Seabra",
         "category": "Jump back in",
         "id": 1012,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     
     
@@ -100,27 +112,31 @@
         "subText": "Olivia Rodrigo",
         "category": "Made for you",
         "id": 1013,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Never Seen the Sunshine",
         "subText": "Tones and I",
         "category": "Made for you",
         "id": 1014,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Jupiter Sings",
         "subText": "Carlos Nino & Friends",
         "category": "Made for you",
         "id": 1015,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     },
     {
         "title": "Welcome to Wonderland",
         "subText": "Anson Seabra",
         "category": "Made for you",
         "id": 1016,
-        "imageName": "mediaplaceholder"
+        "imageName": "mediaplaceholder",
+        "mediaUrl": ""
     }
 ]}
