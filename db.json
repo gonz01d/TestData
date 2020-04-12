@@ -4,7 +4,7 @@
         "subText": "Billie Eilish",
         "category": "Top 10 hits",
         "id": 1001,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -12,7 +12,7 @@
         "subText": "Tones and I",
         "category": "Top 10 hits",
         "id": 1002,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -20,7 +20,7 @@
         "subText": "Olivia Rodrigo",
         "category": "Top 10 hits",
         "id": 1003,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -28,7 +28,7 @@
         "subText": "Turtle Rock",
         "category": "Top 10 hits",
         "id": 1004,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     
@@ -40,7 +40,7 @@
         "subText": "240,000 FOLLOWERS",
         "category": "Genres",
         "id": 1005,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -48,7 +48,7 @@
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1006,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -56,7 +56,7 @@
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1007,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -64,7 +64,7 @@
         "subText": "160,000 FOLLOWERS",
         "category": "Genres",
         "id": 1008,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     
@@ -112,7 +112,7 @@
         "subText": "Olivia Rodrigo",
         "category": "Made for you",
         "id": 1013,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -120,7 +120,7 @@
         "subText": "Tones and I",
         "category": "Made for you",
         "id": 1014,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -128,7 +128,7 @@
         "subText": "Carlos Nino & Friends",
         "category": "Made for you",
         "id": 1015,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     },
     {
@@ -136,7 +136,7 @@
         "subText": "Anson Seabra",
         "category": "Made for you",
         "id": 1016,
-        "imageName": "mediaplaceholder",
+        "imageName": "MediaPlaceholder",
         "mediaUrl": ""
     }
 ]}
